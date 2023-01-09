@@ -1,1 +1,1 @@
-Solid principles examples.
+SOLID principles examples.
